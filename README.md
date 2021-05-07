@@ -4,3 +4,8 @@ this first line is add by me in the remote server (github).
 # teste
 this merge gard the two changes (that of github and that of my local repository). 
 further more
+
+# add fieature one
+
+# add fieature two
+
